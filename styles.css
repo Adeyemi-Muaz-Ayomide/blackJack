@@ -1,0 +1,44 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: green;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod ;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    width: 150px;
+    padding: 10px;
+    background: goldenrod;
+    color: #016432;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#oranges-el{
+    width: 200px;
+    padding: 20px;
+    background: lightcoral;
+    color: black;
+    text-align: center;
+    margin-left: 40px;
+}
+#apples-el{
+    width: 200px;
+    padding: 20px;
+    background: pink;
+    color: black;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 10px;
+}
